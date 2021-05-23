@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: my-webapp
-      image: rajendrait99/web:latest
+      image: sneha99/web:latest
